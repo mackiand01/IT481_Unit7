@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "IT481_Unit7/1.0.0": {
+        "runtime": {
+          "IT481_Unit7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IT481_Unit7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+/Users/andrewmackinnon/Projects/IT481/IT481_Unit7/IT481_Unit7/IT481_Unit7/bin/Debug/netcoreapp3.1/IT481_Unit7.deps.json
+/Users/andrewmackinnon/Projects/IT481/IT481_Unit7/IT481_Unit7/IT481_Unit7/bin/Debug/netcoreapp3.1/IT481_Unit7.runtimeconfig.json
+/Users/andrewmackinnon/Projects/IT481/IT481_Unit7/IT481_Unit7/IT481_Unit7/bin/Debug/netcoreapp3.1/IT481_Unit7.runtimeconfig.dev.json
+/Users/andrewmackinnon/Projects/IT481/IT481_Unit7/IT481_Unit7/IT481_Unit7/bin/Debug/netcoreapp3.1/IT481_Unit7.dll
+/Users/andrewmackinnon/Projects/IT481/IT481_Unit7/IT481_Unit7/IT481_Unit7/bin/Debug/netcoreapp3.1/IT481_Unit7.pdb
+/Users/andrewmackinnon/Projects/IT481/IT481_Unit7/IT481_Unit7/IT481_Unit7/obj/Debug/netcoreapp3.1/IT481_Unit7.csproj.AssemblyReference.cache
+/Users/andrewmackinnon/Projects/IT481/IT481_Unit7/IT481_Unit7/IT481_Unit7/obj/Debug/netcoreapp3.1/IT481_Unit7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewmackinnon/Projects/IT481/IT481_Unit7/IT481_Unit7/IT481_Unit7/obj/Debug/netcoreapp3.1/IT481_Unit7.AssemblyInfoInputs.cache
+/Users/andrewmackinnon/Projects/IT481/IT481_Unit7/IT481_Unit7/IT481_Unit7/obj/Debug/netcoreapp3.1/IT481_Unit7.AssemblyInfo.cs
+/Users/andrewmackinnon/Projects/IT481/IT481_Unit7/IT481_Unit7/IT481_Unit7/obj/Debug/netcoreapp3.1/IT481_Unit7.csproj.CoreCompileInputs.cache
+/Users/andrewmackinnon/Projects/IT481/IT481_Unit7/IT481_Unit7/IT481_Unit7/obj/Debug/netcoreapp3.1/IT481_Unit7.dll
+/Users/andrewmackinnon/Projects/IT481/IT481_Unit7/IT481_Unit7/IT481_Unit7/obj/Debug/netcoreapp3.1/IT481_Unit7.pdb
+/Users/andrewmackinnon/Projects/IT481/IT481_Unit7/IT481_Unit7/IT481_Unit7/obj/Debug/netcoreapp3.1/IT481_Unit7.genruntimeconfig.cache
